@@ -42,7 +42,7 @@ namespace NadekoBot.Modules.Administration
                 {"es-ES", "Español, España"},
                 {"sv-SE", "Svenska, Sverige"},
                 {"tr-TR", "Türkçe, Türkiye"},
-                {"fi-FI",  "suomi, Suomi" },
+                {"fi-FI", "suomi, Suomi" },
                 {"ts-TS", "Tsundere, You Baka"},
             }.ToImmutableDictionary();
 
